@@ -12,7 +12,7 @@
       "name": "라온서버",
       "description": "RaonServer Running Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://github.com/Raon38/Raon-Server-distro/raw/main/server-icon.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "sheep38.p-e.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -202,7 +202,6 @@
           "artifact": {
             "size": 5165,
             "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/files/options.txt",
-            "MD5": "5abb573fdf561496482b2f2785678ddb",
             "path": "options.txt"
           }
         },
