@@ -12,7 +12,7 @@
       "name": "라온서버",
       "description": "RaonServer Running Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://github.com/Raon38/Raon-Server-distro/raw/main/server-icon.png",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "sheep38.p-e.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
