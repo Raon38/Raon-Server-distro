@@ -12,7 +12,7 @@
       "name": "라온서버",
       "description": "RaonServer Running Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://github.com/Raon38/Raon-Server-distro/raw/main/server-icon.png",
-      "version": "1.0.4",
+      "version": "1.1.0",
       "address": "sheep38.p-e.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -116,6 +116,26 @@
           ]
         },
         {
+          "id": "com.tterrag:blur:3.1.0@jar",
+          "name": "Blur (Fabric)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 164085,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/blur-3.1.0.jar",
+            "MD5": "5c2350374a817c510596dc2e96d5a20a"
+          }
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:11.1.118@jar",
+          "name": "Cloth Config v11",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1159192,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/cloth-config-11.1.118-fabric.jar",
+            "MD5": "eb13a834db10ee7e8c5e6a6d4b037fbd"
+          }
+        },
+        {
           "id": "me.pepperbell:continuity:3.0.0-beta.5+1.20.1@jar",
           "name": "Continuity",
           "type": "FabricMod",
@@ -126,6 +146,16 @@
           }
         },
         {
+          "id": "ru.tpsd.eatinganimationmod:eatinganimationid:1.20+1.9.61@jar",
+          "name": "Eating Animation",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1218710,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/eating-animation-1.20+1.9.61.jar",
+            "MD5": "090eeadcff74ce255e97285f8ab56472"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.92.2+1.20.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -133,6 +163,16 @@
             "size": 2107289,
             "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/fabric-api-0.92.2+1.20.1.jar",
             "MD5": "92c58961866741106aae126558c9d4a7"
+          }
+        },
+        {
+          "id": "randommcsomethin.fallingleaves:fallingleaves:1.15.6@jar",
+          "name": "Falling Leaves",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 156773,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/fallingleaves-1.15.6+1.20.1.jar",
+            "MD5": "1d13a592b3c329e2bc10b658161e8429"
           }
         },
         {
@@ -156,13 +196,13 @@
           }
         },
         {
-          "id": "journeymap:journeymap:5.10.0@jar",
+          "id": "journeymap:journeymap:5.10.1@jar",
           "name": "Journeymap",
           "type": "FabricMod",
           "artifact": {
-            "size": 7208951,
-            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.0-fabric.jar",
-            "MD5": "d89cc9557c1d27d94e9fb46907330f71"
+            "size": 7208985,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.1-fabric.jar",
+            "MD5": "7dd3280a4990dc42aaa2cc2ca7a0f680"
           }
         },
         {
@@ -176,6 +216,36 @@
           }
         },
         {
+          "id": "net.tschipcraft:make_bubbles_pop:0.3.0-fabric@jar",
+          "name": "Make Bubbles Pop",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 27579,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar",
+            "MD5": "dfe43062ba0ba42f7e44a5ae83c0c6f8"
+          }
+        },
+        {
+          "id": "eu.ha3:presencefootsteps:1.9.4+1.20.1@jar",
+          "name": "Presence Footsteps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5733027,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/PresenceFootsteps-1.9.4+1.20.1.jar",
+            "MD5": "5d05759103ef318aea55a0cd90d5bd36"
+          }
+        },
+        {
+          "id": "dev.shwg:smoothswapping:0.9.3.1@jar",
+          "name": "Smooth Swapping",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 61986,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/smoothswapping-0.9.3.1-1.20.2-fabric.jar",
+            "MD5": "b4410e1317c568a4cd429e62f614dcd8"
+          }
+        },
+        {
           "id": "me.jellysquid.mods:sodium:0.5.11+mc1.20.1@jar",
           "name": "Sodium",
           "type": "FabricMod",
@@ -183,6 +253,26 @@
             "size": 968419,
             "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/sodium-fabric-0.5.11+mc1.20.1.jar",
             "MD5": "9880bae748957d1cb6c4de50c8e0452a"
+          }
+        },
+        {
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.4.5@jar",
+          "name": "Sound Physics Remastered",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 195159,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/sound-physics-remastered-fabric-1.20.1-1.4.5.jar",
+            "MD5": "66f4b78340fb692b47ebcc3427d392ba"
+          }
+        },
+        {
+          "id": "visuality:visuality:0.7.1+1.20@jar",
+          "name": "Visuality",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 67302,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/visuality-0.7.1+1.20.jar",
+            "MD5": "14aaa65078fcff3af29fef4e1d7d2161"
           }
         },
         {
@@ -206,6 +296,17 @@
           }
         },
         {
+          "id": "BSL_v8.2.09.zip",
+          "name": "BSL_v8.2.09.zip",
+          "type": "File",
+          "artifact": {
+            "size": 954784,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/files/shaderpacks/BSL_v8.2.09.zip",
+            "MD5": "4443556b4e0d63394f0df1297e484454",
+            "path": "shaderpacks/BSL_v8.2.09.zip"
+          }
+        },
+        {
           "id": "ComplementaryUnbound_r5.1.1.zip",
           "name": "ComplementaryUnbound_r5.1.1.zip",
           "type": "File",
@@ -214,6 +315,39 @@
             "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip",
             "MD5": "da7fc4c86b12e65f4f70b3a9aaabae90",
             "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.2.2.zip",
+          "name": "ComplementaryUnbound_r5.2.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 441687,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip",
+            "MD5": "77b72dd3824ad2d6ddb1f952a786137c",
+            "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip"
+          }
+        },
+        {
+          "id": "Nostalgia_v5.0.zip",
+          "name": "Nostalgia_v5.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1843622,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/files/shaderpacks/Nostalgia_v5.0.zip",
+            "MD5": "3d6203d1c170dd175c84cdafaf1b08e4",
+            "path": "shaderpacks/Nostalgia_v5.0.zip"
+          }
+        },
+        {
+          "id": "SEUS PTGI HRR Test 2.1.zip",
+          "name": "SEUS PTGI HRR Test 2.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4402258,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/files/shaderpacks/SEUS%20PTGI%20HRR%20Test%202.1.zip",
+            "MD5": "a2f6feaf818e09dafd9a2afedcae5ba0",
+            "path": "shaderpacks/SEUS PTGI HRR Test 2.1.zip"
           }
         }
       ]
