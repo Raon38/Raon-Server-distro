@@ -264,16 +264,6 @@
           }
         },
         {
-          "id": "me.jellysquid.mods:sodium:0.5.11+mc1.20.1@jar",
-          "name": "Sodium",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 968419,
-            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/sodium-fabric-0.5.11+mc1.20.1.jar",
-            "MD5": "9880bae748957d1cb6c4de50c8e0452a"
-          }
-        },
-        {
           "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.4.5@jar",
           "name": "Sound Physics Remastered",
           "type": "FabricMod",
