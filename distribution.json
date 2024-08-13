@@ -117,7 +117,7 @@
         },
         {
           "id": "com.tterrag:blur:3.1.0@jar",
-          "name": "Blur (Fabric)",
+          "name": "UI 블러 효과 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 164085,
@@ -130,7 +130,7 @@
         },
         {
           "id": "me.shedaniel.autoconfig.example:cloth-config:11.1.118@jar",
-          "name": "Cloth Config v11",
+          "name": "호환 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 1159192,
@@ -140,7 +140,7 @@
         },
         {
           "id": "me.pepperbell:continuity:3.0.0-beta.5+1.20.1@jar",
-          "name": "Continuity",
+          "name": "리소스 개선 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 1009252,
@@ -150,7 +150,7 @@
         },
         {
           "id": "generated.fabricmod:fabric-api:0.92.2+1.20.1@jar",
-          "name": "Fabric API",
+          "name": "페브릭 API",
           "type": "FabricMod",
           "artifact": {
             "size": 2107289,
@@ -160,7 +160,7 @@
         },
         {
           "id": "randommcsomethin.fallingleaves:fallingleaves:1.15.6@jar",
-          "name": "Falling Leaves",
+          "name": "낙엽 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 156773,
@@ -173,7 +173,7 @@
         },
         {
           "id": "dev.tr7zw:notenoughanimations:1.7.4@jar",
-          "name": "NotEnoughAnimations",
+          "name": "애니메이션 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 424028,
@@ -186,7 +186,7 @@
         },
         {
           "id": "link.infra:indium:1.0.34+mc1.20.1@jar",
-          "name": "Indium",
+          "name": "쉐이더 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 105359,
@@ -196,7 +196,7 @@
         },
         {
           "id": "generated.fabricmod:iris:1.7.2+mc1.20.1@jar",
-          "name": "Iris",
+          "name": "최적화 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 2701293,
@@ -206,7 +206,7 @@
         },
         {
           "id": "journeymap:journeymap:5.10.1@jar",
-          "name": "Journeymap",
+          "name": "미니맵 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 7208985,
@@ -216,7 +216,7 @@
         },
         {
           "id": "com.hyfata.najoan:koreanpatch:1.3.1-1.20.1@jar",
-          "name": "Korean Patch",
+          "name": "한글패치 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 39387,
@@ -226,7 +226,7 @@
         },
         {
           "id": "net.tschipcraft:make_bubbles_pop:0.3.0-fabric@jar",
-          "name": "Make Bubbles Pop",
+          "name": "물방울 효과 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 27579,
@@ -239,7 +239,7 @@
         },
         {
           "id": "eu.ha3:presencefootsteps:1.9.4+1.20.1@jar",
-          "name": "Presence Footsteps",
+          "name": "발자국 사운드 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 5733027,
@@ -252,7 +252,7 @@
         },
         {
           "id": "dev.shwg:smoothswapping:0.9.3.1@jar",
-          "name": "Smooth Swapping",
+          "name": "아이템 교체효과 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 61986,
@@ -265,7 +265,7 @@
         },
         {
           "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.4.5@jar",
-          "name": "Sound Physics Remastered",
+          "name": "음향효과 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 195159,
@@ -275,7 +275,7 @@
         },
         {
           "id": "visuality:visuality:0.7.1+1.20@jar",
-          "name": "Visuality",
+          "name": "입자효과 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 67302,
@@ -288,7 +288,7 @@
         },
         {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.19@jar",
-          "name": "Simple Voice Chat",
+          "name": "보이스채팅 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 8064361,
