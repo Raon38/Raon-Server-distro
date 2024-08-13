@@ -12,7 +12,7 @@
       "name": "라온서버",
       "description": "RaonServer Running Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://github.com/Raon38/Raon-Server-distro/raw/main/server-icon.png",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "address": "sheep38.p-e.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -121,8 +121,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 164085,
-            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/blur-3.1.0.jar",
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/optionalon/blur-3.1.0.jar",
             "MD5": "5c2350374a817c510596dc2e96d5a20a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -161,8 +164,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 156773,
-            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/fallingleaves-1.15.6+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/optionalon/fallingleaves-1.15.6+1.20.1.jar",
             "MD5": "1d13a592b3c329e2bc10b658161e8429"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -171,8 +177,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 424028,
-            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/notenoughanimations-fabric-1.7.4-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/optionalon/notenoughanimations-fabric-1.7.4-mc1.20.1.jar",
             "MD5": "a55a339f32a5e6a8c2465b5e79130a50"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -221,8 +230,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 27579,
-            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar",
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/optionalon/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar",
             "MD5": "dfe43062ba0ba42f7e44a5ae83c0c6f8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -231,8 +243,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 5733027,
-            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/PresenceFootsteps-1.9.4+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/optionalon/PresenceFootsteps-1.9.4+1.20.1.jar",
             "MD5": "5d05759103ef318aea55a0cd90d5bd36"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -241,8 +256,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 61986,
-            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/smoothswapping-0.9.3.1-1.20.2-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/optionalon/smoothswapping-0.9.3.1-1.20.2-fabric.jar",
             "MD5": "b4410e1317c568a4cd429e62f614dcd8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -271,8 +289,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 67302,
-            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/visuality-0.7.1+1.20.jar",
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/optionalon/visuality-0.7.1+1.20.jar",
             "MD5": "14aaa65078fcff3af29fef4e1d7d2161"
+          },
+          "required": {
+            "value": false
           }
         },
         {
