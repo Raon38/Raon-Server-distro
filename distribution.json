@@ -12,7 +12,7 @@
       "name": "라온서버",
       "description": "RaonServer Running Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://github.com/Raon38/Raon-Server-distro/raw/main/server-icon.png",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "address": "sheep38.p-e.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -116,6 +116,19 @@
           ]
         },
         {
+          "id": "me.cominixo:betterf3:7.0.2@jar",
+          "name": "F3 모드",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1782676,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/optionalon/BetterF3-7.0.2-Fabric-1.20.1.jar",
+            "MD5": "acda45b22c255f78f3242056b1221c8e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.tterrag:blur:3.1.0@jar",
           "name": "UI 블러 효과 모드",
           "type": "FabricMod",
@@ -186,7 +199,7 @@
         },
         {
           "id": "link.infra:indium:1.0.34+mc1.20.1@jar",
-          "name": "쉐이더 모드",
+          "name": "최적화 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 105359,
@@ -196,7 +209,7 @@
         },
         {
           "id": "generated.fabricmod:iris:1.7.2+mc1.20.1@jar",
-          "name": "최적화 모드",
+          "name": "쉐이더 모드",
           "type": "FabricMod",
           "artifact": {
             "size": 2701293,
@@ -264,6 +277,16 @@
           }
         },
         {
+          "id": "me.jellysquid.mods:sodium:0.5.11+mc1.20.1@jar",
+          "name": "최적화 모드",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 968419,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/sodium-fabric-0.5.11+mc1.20.1.jar",
+            "MD5": "9880bae748957d1cb6c4de50c8e0452a"
+          }
+        },
+        {
           "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.4.5@jar",
           "name": "음향효과 모드",
           "type": "FabricMod",
@@ -287,13 +310,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.5.19@jar",
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.2@jar",
           "name": "보이스채팅 모드",
           "type": "FabricMod",
           "artifact": {
-            "size": 8064361,
-            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.19.jar",
-            "MD5": "8e3db9e113b55555d2c0d237906c0edf"
+            "size": 8052434,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.2.jar",
+            "MD5": "f45e3222f6bf86cdae70e037de8f1ff3"
           }
         },
         {
