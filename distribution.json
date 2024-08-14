@@ -12,7 +12,7 @@
       "name": "라온서버",
       "description": "RaonServer Running Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://github.com/Raon38/Raon-Server-distro/raw/main/server-icon.png",
-      "version": "1.1.4",
+      "version": "1.1.5",
       "address": "sheep38.p-e.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -310,13 +310,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.5.2@jar",
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.19@jar",
           "name": "보이스채팅 모드",
           "type": "FabricMod",
           "artifact": {
-            "size": 8052434,
-            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.2.jar",
-            "MD5": "f45e3222f6bf86cdae70e037de8f1ff3"
+            "size": 8064361,
+            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.19.jar",
+            "MD5": "8e3db9e113b55555d2c0d237906c0edf"
           }
         },
         {
