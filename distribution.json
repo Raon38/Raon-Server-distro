@@ -20,7 +20,7 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": true,
       "modules": [
         {
@@ -310,16 +310,6 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.5.19@jar",
-          "name": "보이스채팅 모드",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 8064361,
-            "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.19.jar",
-            "MD5": "8e3db9e113b55555d2c0d237906c0edf"
-          }
-        },
-        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -491,6 +481,19 @@
 			  "size": 1782676,
 			  "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/optionalon/BetterF3-7.0.2-Fabric-1.20.1.jar",
 			  "MD5": "acda45b22c255f78f3242056b1221c8e"
+			},
+			"required": {
+			  "value": false
+			}
+		  },
+		  {
+			"id": "su.plo.voice:plasmovoice:2.0.10@jar",
+			"name": "Plasmo Voice",
+			"type": "FabricMod",
+			"artifact": {
+			  "size": 11375312,
+			  "url": "https://raw.githubusercontent.com/Raon38/Raon-Server-distro/main/servers/RaonServer-1.20.1/fabricmods/optionalon/plasmovoice-fabric-1.20.1-2.0.10.jar",
+			  "MD5": "0732e196a467cbaae908f21c1b7815c2"
 			},
 			"required": {
 			  "value": false
