@@ -366,7 +366,7 @@
       ]
     },
 	{
-		"id": "raonserver",
+		"id": "raonserver_test",
 		"name": "라온서버 테스트",
 		"description": "라온 테스트 서버",
 		"icon": "https://github.com/Raon38/Raon-Server-distro/raw/main/server-icon.png",
