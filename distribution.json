@@ -380,8 +380,8 @@
         "name": "라온서버 테스트",
         "description": "라온 테스트 서버",
         "icon": "https://github.com/Raon38/Raon-Server-distro/raw/main/server-icon.png",
-        "version": "1.0.0",
-        "address": "110.13.94.26:25565",
+        "version": "1.0.1",
+        "address": "125.137.131.218",
         "minecraftVersion": "1.20.1",
         "discord": {
           "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
