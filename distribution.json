@@ -13,7 +13,7 @@
       "description": "RaonServer Running Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://github.com/Raon38/Raon-Server-distro/raw/main/server-icon.png",
       "version": "1.1.7",
-      "address": "sheep38.p-e.kr:25565",
+      "address": "sheep38.p-e.kr:25570",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
